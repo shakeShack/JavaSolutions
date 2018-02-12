@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LowestNumberFromStringRemove {
+public class RemoveNNumbersInOrderToGenerateLowestValueNumber {
     public static void main(String... args) {
         System.out.println(GenerateLowestNumber("4205123", 4));
         System.out.println(GenerateLowestNumber("216504", 3));
