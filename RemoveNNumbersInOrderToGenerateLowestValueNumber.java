@@ -19,7 +19,6 @@ public class RemoveNNumbersInOrderToGenerateLowestValueNumber {
 
     }
 
-
     public static String GenerateLowestNumber(String value, int n) {
         if (n == 0) {
             return value;
